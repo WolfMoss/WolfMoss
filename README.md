@@ -13,7 +13,7 @@
 ### - 📫 项目 Projects...
 
 1. [PHP调用阿里云API实现DDNS](https://github.com/WolfMoss/PHP-ALIBABA-DDNS) 
-2. [html2048youxi](https://github.com/WolfMoss/game2048)
+2. [html2048游戏](https://github.com/WolfMoss/game2048)
 3. [基于Vditor的为知笔记所见即所得markdown编辑器插件](https://github.com/WolfMoss/Wiz.Vditor) 
 
 ### - ⭐️ &nbsp;Github Star
