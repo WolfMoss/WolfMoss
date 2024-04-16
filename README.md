@@ -14,7 +14,8 @@
 
 1. [PHP调用阿里云API实现DDNS](https://github.com/WolfMoss/PHP-ALIBABA-DDNS) 
 2. [html2048游戏](https://github.com/WolfMoss/game2048)
-3. [基于Vditor的为知笔记所见即所得markdown编辑器插件](https://github.com/WolfMoss/Wiz.Vditor) 
+3. [基于Vditor的为知笔记所见即所得markdown编辑器插件](https://github.com/WolfMoss/Wiz.Vditor)
+4. [python爬虫逆向成品项目集](https://github.com/WolfMoss/py_crawler_reverse)
 
 ### - ⭐️ &nbsp;Github Star
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WolfMoss&count_private=true&show_icons=true"/>
