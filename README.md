@@ -1,9 +1,14 @@
 
 ### - 🔭 技术栈
 
-* Python数据采集，定制化采集程序开发
-* Hadoop大数据搭建，开发
-* 数据仓库建设，数据仓库，ETL开发
+* Python数据采集，定制化采集程序开发，网页/app逆向爬虫
+* .NET后端开发
+* uniapp开发、JS开发
+* SAP、WMS、MES
+* SqlServer、MySQL
+* Linux
+* restful api、mqtt、websocket
+* 产品经理、项目管理
 
 ### - 📫 项目 Projects...
 
