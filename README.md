@@ -7,7 +7,7 @@
 
 ### - ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FearlessPeople&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WolfMoss&count_private=true&show_icons=true"/>
 
 
 ### - 📫 项目 Projects...
@@ -19,7 +19,4 @@
 
 
 ### - 🤝🏻 联系我 Connect with Me
-
-关注公众号【Python魔法师】 后台回复”加好友“ 加我为好友~
-
-![qrcode.jpg](https://s2.loli.net/2024/03/07/PgKNxA6uYvd4RJ3.jpg)
+![1713242805329mmqrcode1713242727383.png](https://gitee.com/WolfMoss/IMG/raw/master/img/1713242805329mmqrcode1713242727383.png)
