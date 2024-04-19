@@ -16,6 +16,7 @@
 2. [html2048游戏](https://github.com/WolfMoss/game2048)
 3. [基于Vditor的为知笔记所见即所得markdown编辑器插件](https://github.com/WolfMoss/Wiz.Vditor)
 4. [python爬17K小说](https://github.com/WolfMoss/py_crawler_reverse/tree/main/17k)
+5. [用discord中转调用coziAI接口](https://github.com/WolfMoss/py_crawler_reverse/tree/main/discord_cozi_middleware)
 
 ### - ⭐️ &nbsp;Github Star
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WolfMoss&count_private=true&show_icons=true"/>
