@@ -1,7 +1,7 @@
 
 ### - 🔭 技术栈
 
-* Python数据采集，定制化采集程序开发，网页/app逆向爬虫
+* Python数据采集，网页/app逆向爬虫，电脑手机自动化
 * .NET后端开发
 * uniapp开发、JS开发
 * SAP、WMS、MES
