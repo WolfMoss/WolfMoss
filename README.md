@@ -70,17 +70,17 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub 统计卡片 -->
+<!-- GitHub 统计卡片 - 使用备用服务 -->
 <table>
 <tr>
 <td width="50%">
   <a href="https://github.com/WolfMoss">
-    <img src="https://github-readme-stats.vercel.app/api?username=WolfMoss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D4AA&icon_color=f39c12&text_color=fff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WolfMoss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=f39c12&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/WolfMoss">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=WolfMoss&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=00D4AA&ring=f39c12&fire=f39c12&currStreakLabel=00D4AA" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=WolfMoss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=f39c12&fire=f39c12&currStreakLabel=00D4AA&sideLabels=c9d1d9" alt="GitHub Streak" />
   </a>
 </td>
 </tr>
@@ -88,12 +88,12 @@ me.say_hi()
 
 <!-- 最常用语言 -->
 <a href="https://github.com/WolfMoss">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfMoss&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D4AA&text_color=fff&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WolfMoss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="60%" alt="Top Languages" />
 </a>
 
 <!-- 贡献图 -->
 <a href="https://github.com/WolfMoss">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WolfMoss&theme=tokyo-night&bg_color=1a1a2e&color=00D4AA&line=f39c12&point=fff&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WolfMoss&theme=github-compact&bg_color=0D1117&color=00D4AA&line=f39c12&point=fff&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </a>
 
 </div>
