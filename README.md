@@ -86,12 +86,6 @@ print(me.greet())
   </a>
 </div>
 
-## 🐍 Coding Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WolfMoss/WolfMoss/main/snake.svg" alt="Coding Snake" style="max-width: 100%; width: 400px;" />
-</div>
-
 ## 🌟 Featured Projects
 
 <!-- 移动端优化：改用垂直列表，更易阅读 -->
@@ -115,14 +109,6 @@ print(me.greet())
 - 🔧 [WindowsShutDown](https://github.com/WolfMoss/WindowsShutDown) - 远程关机工具
 - 🌐 [SetIP](https://github.com/WolfMoss/SetIP) - IP设置工具
 
-</div>
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-  <a href="https://github.com/WolfMoss">
-    <img src="https://github-profile-trophy.vercel.app/?username=WolfMoss&theme=tokyonight&no-frame=true&row=2&column=4&bg_color=0D1117&title_color=00D4AA" alt="Trophy" style="max-width: 100%;" />
-  </a>
 </div>
 
 ## 🔥 Streak Stats
