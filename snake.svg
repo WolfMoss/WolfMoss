@@ -1,0 +1,90 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="900" height="300" fill="#0D1117"/>
+  
+  <!-- 标题 -->
+  <text x="450" y="30" font-family="Fira Code, monospace" font-size="20" fill="#00D4AA" text-anchor="middle" font-weight="bold">
+    🐍 GitHub Contribution Snake 🐍
+  </text>
+  
+  <!-- 装饰线 -->
+  <line x1="50" y1="50" x2="850" y2="50" stroke="#00D4AA" stroke-width="1" opacity="0.5"/>
+  
+  <!-- 蛇身波浪动画 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 20,0; 0,0" dur="2s" repeatCount="indefinite"/>
+    
+    <!-- 蛇头 -->
+    <ellipse cx="100" cy="150" rx="25" ry="20" fill="#00D4AA">
+      <animate attributeName="rx" values="25;27;25" dur="1s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- 蛇眼 -->
+    <circle cx="85" cy="145" r="5" fill="#fff">
+      <animate attributeName="r" values="5;6;5" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="115" cy="145" r="5" fill="#fff">
+      <animate attributeName="r" values="5;6;5" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- 蛇身段1 -->
+    <ellipse cx="160" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.9"/>
+    <!-- 蛇身段2 -->
+    <ellipse cx="220" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.85"/>
+    <!-- 蛇身段3 -->
+    <ellipse cx="280" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.8"/>
+    <!-- 蛇身段4 -->
+    <ellipse cx="340" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.75"/>
+    <!-- 蛇身段5 -->
+    <ellipse cx="400" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.7"/>
+    <!-- 蛇身段6 -->
+    <ellipse cx="460" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.65"/>
+    <!-- 蛇身段7 -->
+    <ellipse cx="520" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.6"/>
+    <!-- 蛇身段8 -->
+    <ellipse cx="580" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.55"/>
+    <!-- 蛇身段9 -->
+    <ellipse cx="640" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.5"/>
+    <!-- 蛇身段10 -->
+    <ellipse cx="700" cy="150" rx="20" ry="18" fill="#00D4AA" opacity="0.45"/>
+    
+    <!-- 蛇尾 -->
+    <ellipse cx="760" cy="150" rx="15" ry="12" fill="#00D4AA" opacity="0.4">
+      <animate attributeName="rx" values="15;18;15" dur="1.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  
+  <!-- 数据点装饰 -->
+  <g fill="#f39c12" opacity="0.8">
+    <circle cx="200" cy="80" r="4">
+      <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="220" r="5">
+      <animate attributeName="r" values="5;7;5" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="100" r="3">
+      <animate attributeName="r" values="3;5;3" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="250" r="4">
+      <animate attributeName="r" values="4;6;4" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="180" r="5">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- 虚线路径装饰 -->
+  <path d="M 150 80 Q 300 50 450 80 T 750 100" stroke="#00D4AA" stroke-width="1" fill="none" stroke-dasharray="5,5" opacity="0.3">
+    <animate attributeName="stroke-dashoffset" from="0" to="100" dur="3s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- 底部文字 -->
+  <text x="450" y="280" font-family="Fira Code, monospace" font-size="14" fill="#00D4AA" text-anchor="middle" opacity="0.7">
+    Keep Coding, Keep Growing! 🚀
+  </text>
+  
+  <!-- 脉冲环效果 -->
+  <circle cx="100" cy="150" r="30" fill="none" stroke="#00D4AA" stroke-width="2" opacity="0.5">
+    <animate attributeName="r" from="25" to="50" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.5" to="0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
