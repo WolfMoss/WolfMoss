@@ -81,6 +81,12 @@ print(me.greet())
   </a>
 </div>
 
+## 🐍 Coding Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WolfMoss/WolfMoss/main/snake.svg" alt="Coding Snake" width="80%" />
+</div>
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -124,16 +130,6 @@ print(me.greet())
   <a href="https://github.com/WolfMoss">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WolfMoss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideNums=00D4AA&currStreakNum=FFFFFF&sideLabels=00D4AA&dates=00D4AA" alt="Streak Stats" />
   </a>
-</div>
-
-## 🐍 Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
 </div>
 
 ## 🤝 Connect with Me
