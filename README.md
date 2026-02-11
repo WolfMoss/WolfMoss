@@ -74,19 +74,27 @@ me.say_hi()
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=WolfMoss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D4AA&icon_color=f39c12&text_color=fff" />
+  <a href="https://github.com/WolfMoss">
+    <img src="https://github-readme-stats.vercel.app/api?username=WolfMoss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D4AA&icon_color=f39c12&text_color=fff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WolfMoss&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=00D4AA&ring=f39c12&fire=f39c12&currStreakLabel=00D4AA" />
+  <a href="https://github.com/WolfMoss">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WolfMoss&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=00D4AA&ring=f39c12&fire=f39c12&currStreakLabel=00D4AA" alt="GitHub Streak" />
+  </a>
 </td>
 </tr>
 </table>
 
 <!-- 最常用语言 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfMoss&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D4AA&text_color=fff" width="60%" />
+<a href="https://github.com/WolfMoss">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfMoss&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D4AA&text_color=fff&langs_count=8" width="60%" alt="Top Languages" />
+</a>
 
 <!-- 贡献图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WolfMoss&theme=tokyo-night&bg_color=1a1a2e&color=00D4AA&line=f39c12&point=fff&hide_border=true" width="95%"/>
+<a href="https://github.com/WolfMoss">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WolfMoss&theme=tokyo-night&bg_color=1a1a2e&color=00D4AA&line=f39c12&point=fff&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</a>
 
 </div>
 
@@ -182,8 +190,12 @@ PHP调用阿里云API实现DDNS
 
 <div align="center">
 
-<!-- 3D 贡献图 -->
-<img src="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<!-- 3D 贡献图 - 需要 GitHub Action 生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/WolfMoss/WolfMoss/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
