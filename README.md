@@ -70,26 +70,12 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub 统计卡片 - 使用备用服务 -->
-<table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/WolfMoss">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WolfMoss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=f39c12&text_color=c9d1d9" alt="GitHub Stats" />
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/WolfMoss">
-    <img src="https://streak-stats.demolab.com?user=WolfMoss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=f39c12&fire=f39c12&currStreakLabel=00D4AA&sideLabels=c9d1d9" alt="GitHub Streak" />
-  </a>
-</td>
-</tr>
-</table>
-
-<!-- 最常用语言 -->
-<a href="https://github.com/WolfMoss">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WolfMoss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="60%" alt="Top Languages" />
-</a>
+<!-- 简洁统计徽章 -->
+<p>
+  <img src="https://img.shields.io/badge/Repos-16-00D4AA?style=for-the-badge&logo=github&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Stars-0-f39c12?style=for-the-badge&logo=github&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Forks-2-3498db?style=for-the-badge&logo=github&labelColor=1a1a2e" />
+</p>
 
 <!-- 贡献图 -->
 <a href="https://github.com/WolfMoss">
