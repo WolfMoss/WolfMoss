@@ -18,12 +18,16 @@
 ### 🤖 AI/自动化项目
 
 - [AI-Maintained-Repository](https://github.com/WolfMoss/AI-Maintained-Repository) - 🤖 由AI自主维护和更新的仓库
-- [AutoRuns](https://github.com/WolfMoss/AutoRuns) - Python 自动化脚本
-- [AutoTradeAndLevel2](https://github.com/WolfMoss/AutoTradeAndLevel2) - Python 量化交易
+- [iflow-agent](https://github.com/WolfMoss/iflow-agent) - Python Agent 框架
+- [dow-ipad-859](https://github.com/WolfMoss/dow-ipad-859) - 基于iPad协议的微信机器人，集成 dify-on-wechat
+- [pyWeChatPadProBot](https://github.com/WolfMoss/pyWeChatPadProBot) - 微信 PadPro 机器人
 - [wechatbot-webhook](https://github.com/WolfMoss/wechatbot-webhook) - 微信机器人 HTTP 服务
+- [AutoTradeAndLevel2](https://github.com/WolfMoss/AutoTradeAndLevel2) - C# 量化交易
 
 ### 📂 其他项目
 
+- [pyFeishuSdk](https://github.com/WolfMoss/pyFeishuSdk) - 飞书 SDK
+- [wolfmoss_skills](https://github.com/WolfMoss/wolfmoss_skills) - 自用 skills
 - [github](https://github.com/WolfMoss/github) - My GitHub homepage
 - [WindowsShutDown](https://github.com/WolfMoss/WindowsShutDown) - 远程关机工具
 - [SetIP](https://github.com/WolfMoss/SetIP) - IP 配置工具
@@ -33,7 +37,7 @@
 
 ## 🏆 开源贡献
 
-### ✨ 已关闭的 Issues (5)
+### ✨ 已关闭的 Issues (4)
 
 | 项目 | 描述 | 时间 |
 |------|------|------|
@@ -42,14 +46,13 @@
 | [WolfMoss/Wiz.Vditor#2](https://github.com/WolfMoss/Wiz.Vditor/issues/2) | 支持默认上传图片到为知 | 2021-02-08 |
 | [liukuo362573/YiShaAdmin#29](https://github.com/liukuo362573/YiShaAdmin/issues/29) | mysql_data.sql语句错误 | 2020-05-22 |
 
-### 📝 开放的 Issues (4)
+### 📝 开放的 Issues (3)
 
 | 项目 | 描述 | 时间 |
 |------|------|------|
 | [Estrella-Explore/YangJY-AcadMisconduct#7](https://github.com/Estrella-Explore/YangJY-AcadMisconduct/issues/7) | 部署 Discuz! | 2025-08-04 |
 | [suqingdong/sparkapi#7](https://github.com/suqingdong/sparkapi/issues/7) | 定义最大token数不起作用嘛 | 2024-03-12 |
 | [firerpa/lamda#73](https://github.com/firerpa/lamda/issues/73) | 雷电模拟器 CRITICAL failed (1) | 2024-01-19 |
-| [WolfMoss/Process#2](https://github.com/WolfMoss/Process/issues/2) | WolfMoss/IMG | 2023-01-28 |
 
 ---
 
