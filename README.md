@@ -30,6 +30,7 @@
 |------|------|------|-------|
 | [![py_crawler_reverse](https://img.shields.io/badge/py_crawler_reverse-3776AB?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/WolfMoss/py_crawler_reverse) | Python 爬虫逆向项目合集，每个文件夹都是成品项目 | JavaScript | ⭐ 31 |
 | [![Wiz.Vditor](https://img.shields.io/badge/Wiz.Vditor-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/WolfMoss/Wiz.Vditor) | 为知笔记 Vditor 编辑器集成 | HTML | ⭐ 13 |
+| [![PHP-ALIBABA-DDNS](https://img.shields.io/badge/PHP--ALIBABA--DDNS-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/WolfMoss/PHP-ALIBABA-DDNS) | PHP 调用阿里云 API 实现 DDNS 动态域名解析 | PHP | ⭐ 2 |
 
 ---
 
@@ -45,17 +46,21 @@
 [![pyWeChatPadProBot](https://img.shields.io/badge/pyWeChatPadProBot-229ED1?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/WolfMoss/pyWeChatPadProBot)
 [![wechatbot-webhook](https://img.shields.io/badge/wechatbot--webhook-229ED1?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/WolfMoss/wechatbot-webhook)
 [![AutoTradeAndLevel2](https://img.shields.io/badge/AutoTrade--Level2-5C3A9E?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/WolfMoss/AutoTradeAndLevel2)
+[![py-qqbot](https://img.shields.io/badge/py--qqbot-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/WolfMoss/py-qqbot)
+[![pyFeishuSdk](https://img.shields.io/badge/pyFeishuSdk-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/WolfMoss/pyFeishuSdk)
 
 </div>
 
 | 项目 | 描述 |
 |------|------|
-| [AI-Maintained-Repository](https://github.com/WolfMoss/AI-Maintained-Repository) | 🤖 由 AI 自主维护和更新的仓库 |
+| [AI-Maintained-Repository](https://github.com/WolfMoss/AI-Maintained-Repository) | 🤖 由 AI 自主维护和更新的仓库 - AI 自动优化代码、文档和功能 |
 | [iflow-agent](https://github.com/WolfMoss/iflow-agent) | Python Agent 框架 |
-| [dow-ipad-859](https://github.com/WolfMoss/dow-ipad-859) | 基于 iPad 协议的微信机器人，集成 dify-on-wechat |
+| [dow-ipad-859](https://github.com/WolfMoss/dow-ipad-859) | 基于 859 版 iPad 协议的微信机器人，集成 dify-on-wechat |
 | [pyWeChatPadProBot](https://github.com/WolfMoss/pyWeChatPadProBot) | 微信 PadPro 机器人 |
 | [wechatbot-webhook](https://github.com/WolfMoss/wechatbot-webhook) | 微信机器人 HTTP Webhook 服务 |
 | [AutoTradeAndLevel2](https://github.com/WolfMoss/AutoTradeAndLevel2) | C# 量化交易与 Level2 数据分析 |
+| [py-qqbot](https://github.com/WolfMoss/py-qqbot) | Python QQ 机器人 |
+| [pyFeishuSdk](https://github.com/WolfMoss/pyFeishuSdk) | 飞书 SDK Python 包 |
 
 ---
 
@@ -63,6 +68,9 @@
 
 <div align="center">
 
+[![better-games-impact](https://img.shields.io/badge/better--games--impact-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/WolfMoss/better-games-impact)
+[![wolfmoss_skills](https://img.shields.io/badge/wolfmoss__skills-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/WolfMoss/wolfmoss_skills)
+[![qq-bot](https://img.shields.io/badge/qq__bot-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/WolfMoss/qq-bot)
 [![atas_mt5](https://img.shields.io/badge/atas__mt5-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/WolfMoss/atas_mt5)
 [![PHP-ALIBABA-DDNS](https://img.shields.io/badge/PHP--ALIBABA--DDNS-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/WolfMoss/PHP-ALIBABA-DDNS)
 [![pyFeishuSdk](https://img.shields.io/badge/pyFeishuSdk-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/WolfMoss/pyFeishuSdk)
@@ -71,6 +79,16 @@
 [![game2048](https://img.shields.io/badge/game2048-F16529?style=flat-square&logo=html5&logoColor=white)](https://github.com/WolfMoss/game2048)
 
 </div>
+
+| 项目 | 描述 |
+|------|------|
+| [better-games-impact](https://github.com/WolfMoss/better-games-impact) | 基于 better-genshin-impact 的通用游戏自动化项目 |
+| [wolfmoss_skills](https://github.com/WolfMoss/wolfmoss_skills) | 自用 Claude Code Skills 配置 |
+| [qq-bot](https://github.com/WolfMoss/qq-bot) | QQ Bot based on qq-botpy SDK |
+| [PHP-ALIBABA-DDNS](https://github.com/WolfMoss/PHP-ALIBABA-DDNS) | PHP 调用阿里云 API 实现 DDNS 动态域名解析 |
+| [WindowsShutDown](https://github.com/WolfMoss/WindowsShutDown) | 远程关机工具 |
+| [SetIP](https://github.com/WolfMoss/SetIP) | Windows IP 配置工具 |
+| [game2048](https://github.com/WolfMoss/game2048) | C# 版 2048 游戏 |
 
 ---
 
